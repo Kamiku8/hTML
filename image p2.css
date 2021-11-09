@@ -1,0 +1,12 @@
+body{
+    background-image: url("page2.jpg");
+    background-size: 100% auto;
+}
+div{
+    color:rgb(187, 7, 7);
+    font-size: 30px;
+}
+button{
+    background-color:skyblue;
+    font-size: 20px;
+}
