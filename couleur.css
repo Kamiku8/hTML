@@ -9,5 +9,10 @@ button{
 
 body{
     background-image: url("forets.jpg");
+    background-size: 100% auto;
 }
-
+@media screen and ( orientation: portrait) {
+    p{
+        font-size: 50px;
+    }
+}

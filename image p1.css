@@ -10,3 +10,8 @@ button{
     background-color:skyblue;
     font-size: 20px;
 }
+@media screen and ( orientation: portrait) {
+    p{
+        font-size: 50px;
+    }
+}
